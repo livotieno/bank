@@ -3,8 +3,9 @@ import React from 'react';
 const About = () => {
  return (
     <div>
+     <header> 3LIV BOOKS</header>
       <h1>About Services</h1>
-      <p>3LIV is another well-known book summary app that offers summaries in text, audio, and animated formats. It has a comprehensive library of summaries of nonfiction bestseller books, and its summaries provide key insights of the books in minutes. This site provides brief description concerning the company</p>
+      <p>3LIV BOOKS is another well-known book summary app that offers summaries in text, audio, and animated formats. It has a comprehensive library of summaries of nonfiction bestseller books, and its summaries provide key insights of the books in minutes. This site provides brief description concerning the company</p>
       <p>The job vacanicies are as follows</p>
       <ol>
         <li>1: Cleaners - Salary per month 15,000</li>
