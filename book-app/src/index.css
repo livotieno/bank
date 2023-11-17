@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+header{
+ font-weight: bolder;
+}
+header:hover{
+  color: red;
+}
+*{
+  background-color:  white;
+}
+.services{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+}
+.about{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+.contact{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+.company{
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
